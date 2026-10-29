@@ -1,0 +1,22 @@
+{
+  "name": "taiwan-trails",
+  "version": "1.0.0",
+  "description": "Taiwan Trails - Commercial Website | S4G DeV",
+  "keywords": [
+    "Commercial",
+    "Website",
+    "S4G_DeV",
+    "Taiwan",
+    "Trails"
+  ],
+  "author": "S4G DeV",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "site": "vite --host"
+  },
+  "dependencies": {
+    "lucide": "^1.61.0",
+    "vite": "^8.3.5"
+  }
+}
